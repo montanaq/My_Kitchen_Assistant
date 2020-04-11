@@ -1,14 +1,17 @@
 <resources>
     <string name="app_name">My Kitchen Assistant</string>
     <string name="title_from">Convert from...</string>
-    <string name="title_to">to...</string>
+    <string name="title_to">Convert to...</string>
     <string-array name="units">
         <item>Cup</item>
-        <item>Tablespoon</item>
-        <item>Teaspoon</item>
-        <item>Pound</item>
+        <item>Kilograms</item>
         <item>Ounce (Liquid)</item>
         <item>Ounce (Dry)</item>
+        <item>Pound</item>
+        <item>Tablespoon</item>
+        <item>Teaspoon</item>
     </string-array>
     <string name="title_activity_timer">TimerActivity</string>
+    <string name="Enter">Enter value here...</string>
+    <string name="Result">Result here...</string>
 </resources>

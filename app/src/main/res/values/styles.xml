@@ -8,4 +8,8 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="Header1" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">30dp</item>
+    </style>
+
 </resources>
